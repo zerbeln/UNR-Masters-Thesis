@@ -4,3 +4,5 @@ Multiagent Monte Carlo Tree Search with Difference Evaluations and Evolved Rollo
 This repository contains code used to complete a Thesis project to satisfy the requirements for Master of Science in Mechanical Engineering at the University of Nevada, Reno.
 
 Degree awarded: May 2018
+
+**THIS REPOSITORY IS NO LONGER MAINTAINED**
